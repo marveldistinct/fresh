@@ -9,7 +9,7 @@ const Navbar =() => {
         <div className="fixed top-0 z-[40] w-full h-[100px] bg-transparent flex justify-between items-center px-10 md:px-20">
                 <div className="flex flex-row gap-3 items-center">
                     <Image
-                        src="horselogo.png"
+                        src="/horseLogo.jpg"
                         alt="logo"
                         width={40}
                         height={40}
