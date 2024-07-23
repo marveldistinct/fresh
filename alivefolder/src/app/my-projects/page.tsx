@@ -6,7 +6,7 @@ import { SkillData } from '../../../constants'
 import Image from 'next/image'
 import {Autoplay} from "swiper/modules" 
 
-const My projects = () => {
+const Page = () => {
   return (
     <div>
       

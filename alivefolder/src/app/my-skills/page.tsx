@@ -39,7 +39,7 @@ const Page = () => {
         >
             {SkillData.map((skill, index) => (
                 <SwiperSlide key={index}>
-                    <image
+                    <Image
                     src={skill.Image}
                     alt={skill.name}
                     width={skill.width}
@@ -63,7 +63,7 @@ const Page = () => {
         >
             {SkillData.map((skill, index) => (
                 <SwiperSlide key={index}>
-                    <image
+                    <Image
                     src={skill.Image}
                     alt={skill.name}
                     width={skill.width}
